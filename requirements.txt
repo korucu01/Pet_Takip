@@ -1,0 +1,9 @@
+fastapi[standard]
+a2wsgi
+pymysql
+python-dotenv
+passlib
+jose
+PyJWT
+python-jwt
+pydantic
